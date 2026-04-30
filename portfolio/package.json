@@ -1,0 +1,13 @@
+{
+  "name": "manik-mia-portfolio",
+  "version": "1.0.0",
+  "description": "Manik Mia - Full Stack Developer Portfolio",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^5.0.0"
+  }
+}
